@@ -1,0 +1,22 @@
+.page_2 {
+    background-image: linear-gradient(145deg, #72f, #c1b);
+    overflow: hidden;
+}
+
+.page_4 {
+    background-image: linear-gradient(-145deg, #7500ff, #332aff 20%, #332aff 40%, #0098fe);
+    overflow: hidden;
+}
+
+.page_pad {
+    padding: 20% 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_2 h1 {
+    font-size: 80px;
+    margin: 0px;
+    transition-timing-function: cubic-bezier(0.59, 0.46, 0, 1);
+}

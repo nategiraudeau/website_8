@@ -1,0 +1,43 @@
+.page_center {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_1 .page_center {
+    color: white;
+    height: 100vh;
+}
+
+.page_1 .scroll_arrow {
+    width: 120px;
+    height: 120px;
+    transform: translateX(-60px) rotate(180deg) scale(0.5);
+    opacity: 0.5;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+}
+
+.page_1 {
+    animation: title 1s ease;
+}
+
+.page_1 .page_center h1 {
+    font-size: 120px;
+}
+
+@keyframes title {
+    0% {opacity: 0;}
+    20% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.page_1 .page_center h1 .text_gradient {
+    background-image: linear-gradient(145deg, #72f, #c1b);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 10px 30px #a011ff7c;
+}
