@@ -2,6 +2,7 @@
     padding: 10% 0px;
     display: flex;
     justify-content: center;
+    overflow: hidden;
 }
 
 .page_3 .row {
