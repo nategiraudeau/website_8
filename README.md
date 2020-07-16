@@ -20,4 +20,4 @@ When you scroll down a little bit, this is what you see.
 ---
 
 ![Screen shot 3](./screen_shot_3.png)
-When you scroll down some more these shapes appear.
+When you scroll down some more, these shapes appear.
