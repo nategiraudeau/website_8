@@ -1,3 +1,6 @@
+
+<img src="./public/icon-04.png" width="100px" />
+
 ## [Website 8](https://nategiraudeau.github.io/website_8/)
 
 An amazing website built with react.
